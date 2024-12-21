@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+This is a profile used for practicing purposes. The goal is to learn and keep a place for storage.
 <!--
 **mmelvh25/mmelvh25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
